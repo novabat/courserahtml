@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+}
+h1{
+	
+	font-family: calibri,Helvetica,sans-serif;
+	margin-bottom: 30px;
+}
+p{
+	padding:10px;
+}
+
+section{
+	background-color:#666666;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+#header-nav{
+	border-radius: 0;
+	border:0;
+	background-color:#666666;
+}
+.brand{
+	color:black;
+	font-size:1.5em;
+}
+
+#myNavigation{
+	text-align: center;
+	background-color:#999999;
+	font-size:20px;
+}
+li{
+	border-bottom:solid 1px black;
+}
+a:link{
+ text-decoration: none !important;
+
+}
+a:hover {
+	text-decoration: none !important;
+	color:black;
+}
+a:active {
+	text-decoration: none !important;
+}
